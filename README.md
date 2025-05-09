@@ -39,7 +39,7 @@ The dashboard provides insights into:
 ## 🖼️ Dashboard Snapshots
 
 ### Overview Page
-![Overview](assets/.png)
+![Overview](assets/Overview-dashboard.png)
 
 ### Loan Details Page
 ![Details](assets/Summary-dashboard.png)
