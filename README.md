@@ -55,3 +55,7 @@ The dashboard provides insights into:
 - Conditional Formatting
 - Visual Dashboard Design
 
+🚀 How to Use
+- Download the Excel file from the Excel_dashboard/ folder.
+- Open it with Excel (2016+ is recommended for full compatibility).
+- Interact with slicers and the timeline to explore data dynamically.
