@@ -38,11 +38,11 @@ The dashboard provides insights into:
 
 ## 🖼️ Dashboard Snapshots
 
-### Loan Details Page
-![Details](assets/Summary-dashboard.png)
+### Summary Page
+![Summary Dashboard](assets/Summary-dashboard.png)
 
 ### Overview Page
-![Overview](assets/Overview-dashboard_updated.png)
+![Overview Dashboard](assets/Overview-dashboard_updated.png)
 
 
 ---
